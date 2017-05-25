@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercises11_2</string>
+    <string name="url_label">URL</string>
+    <string name="btn_label">Get Line</string>
+</resources>
